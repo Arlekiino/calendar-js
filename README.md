@@ -22,7 +22,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Arlekino/calendar-js.git
+   git clone https://github.com/Arlekiino/calendar-js.git
 
 ## 💡 Usage
 Click on the calculator buttons to input numbers and operators. Press = to get the result. Use C to clear the display.
